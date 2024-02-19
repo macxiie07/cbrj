@@ -306,7 +306,7 @@ return [
         ],
         [
             'text'        => 'User Management',
-            'url'         => 'app/admin/d',
+            'url'         => 'app/admin/users',
             'icon'        => 'nav-icon fas fa-users',
             'label_color' => 'success',
         ],
